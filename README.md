@@ -1,3 +1,3 @@
 # microcord
 
-A damn small Discord library.
+A damn small Discord HTTP library.

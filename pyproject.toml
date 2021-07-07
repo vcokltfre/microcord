@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "microcord"
 version = "1.0.0"
-description = "A damn small Discord library."
+description = "A damn small Discord HTTP library."
 authors = ["vcokltfre <vcokltfre@gmail.com>"]
 license = "MIT"
 
