@@ -4,6 +4,8 @@ version = "1.0.0"
 description = "A damn small Discord HTTP library."
 authors = ["vcokltfre <vcokltfre@gmail.com>"]
 license = "MIT"
+readme = "README.md"
+repository = "https://github.com/vcokltfre/microcord"
 
 [tool.poetry.dependencies]
 python = "^3.8"
