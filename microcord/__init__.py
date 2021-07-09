@@ -95,7 +95,7 @@ class HTTPClient:
             retries (int, optional): How many attempts to make before giving up. Defaults to 3.
 
         Raises:
-            HTTPError: Somethign went wrong with the request.
+            HTTPError: Something went wrong with the request.
 
         Returns:
             ClientResponse: The request response.
